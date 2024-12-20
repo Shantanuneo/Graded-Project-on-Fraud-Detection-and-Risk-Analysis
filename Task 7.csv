@@ -1,0 +1,160 @@
+loan_id,loan_purpose,sum(l.loan_amount),avg(l.repayment_history)
+852,Education,447708,10.0000
+2824,"Home Renovation",185327,9.0000
+2464,Medical,122199,9.0000
+97,"Home Renovation",319264,10.0000
+13,"Home Renovation",174410,9.0000
+2060,Education,466370,9.0000
+236,"Business Expansion",332705,10.0000
+2711,Education,467207,9.0000
+1138,"Business Expansion",240832,10.0000
+1198,"Home Renovation",87579,9.0000
+1141,Medical,344884,9.0000
+1236,"Business Expansion",277793,10.0000
+2290,Medical,77100,10.0000
+222,Medical,212399,9.0000
+1237,"Home Renovation",444798,10.0000
+2243,Medical,320749,9.0000
+1033,"Home Renovation",429801,10.0000
+2927,"Home Renovation",441154,10.0000
+2685,"Business Expansion",432840,10.0000
+1529,"Business Expansion",47041,9.0000
+530,Medical,415656,9.0000
+2855,"Business Expansion",42663,10.0000
+1400,"Business Expansion",126781,10.0000
+2403,Medical,320690,9.0000
+2057,"Home Renovation",302818,10.0000
+338,Medical,190835,10.0000
+1338,"Business Expansion",120566,9.0000
+1934,Education,329779,9.0000
+859,Medical,130181,9.0000
+619,Medical,393207,9.0000
+342,Medical,265956,9.0000
+2732,Education,111117,10.0000
+973,Medical,171049,9.0000
+1481,"Home Renovation",25933,10.0000
+1574,Education,362201,9.0000
+1161,Medical,201758,9.0000
+503,Education,152766,9.0000
+6,Medical,260273,9.0000
+2846,"Home Renovation",202194,10.0000
+54,Medical,439398,9.0000
+1493,Education,406214,10.0000
+209,"Business Expansion",112661,9.0000
+2674,"Home Renovation",440489,10.0000
+2383,"Home Renovation",200071,9.0000
+2306,"Business Expansion",246089,10.0000
+327,"Business Expansion",420944,10.0000
+205,"Business Expansion",91925,9.0000
+4,Education,348100,9.0000
+2140,"Business Expansion",76462,9.0000
+572,"Home Renovation",321652,9.0000
+2808,"Business Expansion",148238,9.0000
+1944,Education,368893,9.0000
+1084,"Business Expansion",343335,9.0000
+1951,"Home Renovation",338547,10.0000
+35,"Home Renovation",273681,9.0000
+1986,Medical,357598,9.0000
+2173,"Home Renovation",449087,9.0000
+2137,Education,67819,9.0000
+1662,Education,130372,9.0000
+2165,Medical,82907,10.0000
+1247,Education,422806,10.0000
+2982,"Home Renovation",67189,9.0000
+2611,"Business Expansion",165489,10.0000
+809,"Business Expansion",11539,9.0000
+1059,"Home Renovation",81350,9.0000
+2763,"Home Renovation",266613,9.0000
+2660,"Home Renovation",143751,9.0000
+2138,Education,55742,9.0000
+2501,"Home Renovation",151085,10.0000
+951,Medical,151100,9.0000
+1826,Medical,211521,9.0000
+1145,"Home Renovation",392370,9.0000
+2298,Education,450852,9.0000
+891,Education,56039,9.0000
+442,Medical,117431,9.0000
+1076,"Business Expansion",370080,10.0000
+74,Medical,281533,9.0000
+1895,"Home Renovation",212540,10.0000
+722,"Business Expansion",92790,10.0000
+2554,"Business Expansion",179626,9.0000
+611,Medical,61566,9.0000
+2953,Education,403403,9.0000
+1252,Medical,389664,10.0000
+1999,Education,115983,9.0000
+2726,Education,181825,9.0000
+758,Education,370438,10.0000
+1496,Education,52670,10.0000
+81,Education,74694,10.0000
+915,"Home Renovation",449536,10.0000
+2845,"Home Renovation",463552,10.0000
+2414,Medical,175268,9.0000
+1831,Medical,104157,9.0000
+1005,"Home Renovation",301601,9.0000
+2490,Education,497811,10.0000
+422,"Home Renovation",163040,10.0000
+2634,Education,106496,9.0000
+1492,"Home Renovation",226623,9.0000
+1167,"Home Renovation",183022,9.0000
+408,"Business Expansion",222564,9.0000
+1339,Medical,7039,9.0000
+2425,"Business Expansion",173701,9.0000
+154,Medical,226157,10.0000
+491,"Home Renovation",395363,10.0000
+2009,Education,230468,9.0000
+1274,Medical,476971,10.0000
+622,Education,210461,10.0000
+510,Medical,96254,9.0000
+2484,"Business Expansion",401761,10.0000
+153,"Business Expansion",493919,10.0000
+594,"Home Renovation",467569,10.0000
+2612,Medical,228097,9.0000
+2804,Medical,93701,10.0000
+2245,"Business Expansion",370113,9.0000
+749,"Home Renovation",115635,10.0000
+806,"Home Renovation",434368,9.0000
+554,"Business Expansion",348885,9.0000
+146,Medical,287929,10.0000
+1853,Education,437273,9.0000
+2859,"Business Expansion",110949,10.0000
+1363,Education,415459,10.0000
+1294,"Home Renovation",201070,10.0000
+2093,Medical,33650,10.0000
+545,Medical,267353,9.0000
+2148,Medical,465878,10.0000
+41,"Home Renovation",327125,10.0000
+2562,"Home Renovation",231925,10.0000
+1374,"Business Expansion",280027,10.0000
+2770,"Home Renovation",381994,9.0000
+2232,"Home Renovation",448314,10.0000
+681,Medical,47249,10.0000
+1721,Medical,78872,9.0000
+751,"Business Expansion",428766,10.0000
+2587,Medical,396436,9.0000
+1917,Medical,257558,9.0000
+1126,"Business Expansion",435879,10.0000
+210,"Business Expansion",491203,9.0000
+173,"Business Expansion",467223,10.0000
+2662,Medical,439369,10.0000
+2025,Education,99771,9.0000
+1966,"Home Renovation",377752,10.0000
+564,"Home Renovation",149135,9.0000
+2070,"Business Expansion",306164,9.0000
+2972,"Home Renovation",118370,10.0000
+574,"Home Renovation",417407,10.0000
+1027,"Home Renovation",482021,10.0000
+2412,"Home Renovation",317566,10.0000
+1832,Medical,116394,10.0000
+1557,"Business Expansion",7846,9.0000
+2382,Education,144627,9.0000
+1168,Education,291430,9.0000
+2397,Medical,439108,9.0000
+302,"Business Expansion",53573,10.0000
+2569,Medical,246401,10.0000
+2329,"Home Renovation",12164,10.0000
+1874,"Business Expansion",169808,10.0000
+1073,Medical,207412,9.0000
+853,Medical,452082,10.0000
+450,"Business Expansion",207748,9.0000
+1134,Education,197922,10.0000

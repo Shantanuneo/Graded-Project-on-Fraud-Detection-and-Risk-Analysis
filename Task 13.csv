@@ -1,0 +1,957 @@
+region,total_loans,total_loan_disbursements,average_loan_amount
+"PSC 5754, Box 7187, APO AA 12064",8,2974541,371817.6250
+"532 Davis Fords, West Josephport, MD 83729",11,2498952,227177.4545
+"1238 Maxwell Common, West Kathleen, TN 15476",8,2458984,307373.0000
+"3725 Anna Island Apt. 366, Lambton, MO 09810",7,2426611,346658.7143
+"4691 Taylor Ford, East Bryanfurt, NE 03803",9,2418197,268688.5556
+"03641 Kayla Pines Suite 497, Kennethtown, MN 36783",8,2300192,287524.0000
+"336 Santana Tunnel, Laurieside, DC 60997",7,2291441,327348.7143
+"43326 Silva Isle Apt. 599, North Elizabethtown, NE 44730",8,2282920,285365.0000
+"4269 Maurice Fords, South Christopher, MA 90765",7,2276489,325212.7143
+"598 Livingston Mountain Suite 361, West Jamesmouth, MT 45241",7,2259295,322756.4286
+"389 Jose Court, South Deanbury, ME 85425",6,2185088,364181.3333
+"Unit 2797 Box 1867, DPO AP 14427",7,2176299,310899.8571
+"PSC 5810, Box 0062, APO AA 90331",8,2102513,262814.1250
+"5751 Barber Freeway Suite 973, West Rebeccaview, IL 37746",6,2092595,348765.8333
+"347 Gonzalez Fields, Caseside, WV 21987",7,2078828,296975.4286
+"22879 Anna Mount Suite 571, Derektown, NM 64934",6,2078043,346340.5000
+"627 Carl Crossroad, Mollystad, KY 93544",6,2060072,343345.3333
+"713 Albert Plaza, Deborahland, WY 69783",5,2045500,409100.0000
+"274 Karen Meadows, New Jessica, AK 21632",8,2021534,252691.7500
+"992 Murphy Cliffs, New Nancyfort, TN 14192",5,1963474,392694.8000
+"77689 William Shoal, Wardton, NV 72274",6,1938394,323065.6667
+"043 Nelson Inlet, Jenkinston, KY 39147",8,1922053,240256.6250
+"312 Jonathan Lodge, North Kevin, WY 27834",8,1916124,239515.5000
+"531 Guerrero Fields Suite 331, Wilsonfurt, IA 69954",7,1905019,272145.5714
+"7403 William Stream Suite 359, North Timothyland, HI 10591",6,1885485,314247.5000
+"352 Ayers Manor Suite 736, Megantown, ME 02105",5,1882553,376510.6000
+"334 Theresa Corners, Clarkeview, UT 35511",5,1881627,376325.4000
+"PSC 6790, Box 3077, APO AE 45375",7,1876600,268085.7143
+"43318 Thomas Plains, Port David, CT 95474",6,1855462,309243.6667
+"05356 Miller Parkways, Port Keith, MI 93636",5,1854656,370931.2000
+"4299 Haynes Heights, New Andrewfurt, ID 45529",6,1850393,308398.8333
+"7772 Brandon Spring Suite 742, Luisfurt, ME 75874",7,1836297,262328.1429
+"568 Herrera Trafficway, North Josefort, IL 58156",5,1830272,366054.4000
+"20813 Catherine Circles Suite 811, Brianport, FL 03913",6,1825173,304195.5000
+"018 Mccullough Fort, Freemanland, KS 29806",7,1806317,258045.2857
+"162 Salinas Spring Apt. 562, Ronaldfurt, GA 29794",5,1806093,361218.6000
+"569 Hensley Fields Suite 805, Houstonshire, OH 05634",6,1777676,296279.3333
+"21042 Marie Ridge Apt. 295, Petersonberg, AZ 39310",8,1776886,222110.7500
+"4610 Jessica Wall Apt. 869, Petersfort, KY 71747",6,1768995,294832.5000
+"148 Russell Divide, Jordanport, GA 73683",4,1741842,435460.5000
+"20931 Edwin Station Suite 763, New Kelsey, DC 72138",7,1731126,247303.7143
+"142 Ernest Dam Apt. 493, New Scott, CA 29682",5,1726653,345330.6000
+"Unit 8826 Box 4372, DPO AA 06581",5,1712442,342488.4000
+"USS Rodriguez, FPO AP 05787",5,1712441,342488.2000
+"USCGC Henry, FPO AE 51819",6,1709840,284973.3333
+"86033 Davis Freeway, East Cynthiaburgh, KS 59017",6,1705935,284322.5000
+"PSC 0616, Box 7919, APO AA 51397",6,1703179,283863.1667
+"20334 Sarah Forge Suite 901, South Kimberlyshire, MT 98140",6,1691825,281970.8333
+"3347 James Track, Seanmouth, VA 38747",5,1677468,335493.6000
+"53694 Reynolds Avenue Apt. 123, Walterport, NV 60291",8,1674858,209357.2500
+"785 Debra Green, Robinsonshire, CO 46456",5,1673510,334702.0000
+"15356 David Meadow, Juliehaven, KS 31100",5,1661275,332255.0000
+"44354 Fowler Court, North Kathleenview, WA 09854",4,1657467,414366.7500
+"7325 Jasmine Greens, Longburgh, ND 21603",4,1655042,413760.5000
+"43499 Mcdaniel Highway, North Adamberg, MT 50820",4,1652223,413055.7500
+"36232 Stewart Knoll, East Nicholasville, UT 15005",4,1650722,412680.5000
+"497 David Burg, West Xavierfurt, LA 28374",8,1647187,205898.3750
+"7810 Robert Forks Apt. 424, Jeffreychester, MO 56907",6,1633125,272187.5000
+"545 Watts Viaduct, New Laura, MO 26421",8,1627220,203402.5000
+"124 Diana Heights, New Darrenview, DE 67945",4,1627175,406793.7500
+"9316 Gonzalez Freeway, Sarahchester, TN 26815",6,1618122,269687.0000
+"325 Ryan Skyway, Luketown, WY 59935",7,1615764,230823.4286
+"4384 Banks Ramp, South Ellen, OR 08944",5,1611223,322244.6000
+"8667 Lisa Isle, Markhaven, NJ 49138",6,1607893,267982.1667
+"02303 Andrews Springs Apt. 725, West Lesliestad, WY 39068",8,1603891,200486.3750
+"64261 Hicks Summit, Conleyberg, AK 70624",6,1595152,265858.6667
+"1287 Paul Lakes, West Jasonburgh, MO 80653",7,1591273,227324.7143
+"346 Vanessa Isle Apt. 902, Port Kenneth, RI 45430",5,1587250,317450.0000
+"04764 Calderon Glens Apt. 545, Port Angela, AR 34095",6,1583750,263958.3333
+"91944 Boyle Parkways, Wareshire, MA 33634",4,1575610,393902.5000
+"081 Chad Club Suite 360, Port Jessicamouth, NM 17050",6,1573981,262330.1667
+"0663 Rebecca Streets Suite 813, Keithbury, CO 19646",5,1571132,314226.4000
+"398 Lawson Shoals, Jenniferburgh, ND 38538",5,1565678,313135.6000
+"044 Christopher Rapids, New Richard, IN 53009",4,1560325,390081.2500
+"428 Lee Square Suite 326, Mejiaburgh, VT 39158",4,1555529,388882.2500
+"312 Gail Field Apt. 967, Walshland, ND 04969",5,1549974,309994.8000
+"64938 Rebecca Views Suite 823, Heidishire, AZ 79562",7,1538808,219829.7143
+"864 Brandon Mission, New Jo, CO 64789",5,1538115,307623.0000
+"25509 Yates Station Apt. 468, New Bradley, RI 75374",4,1532185,383046.2500
+"11310 Alexander Vista, Lake Christophershire, UT 17092",4,1510007,377501.7500
+"6920 Jermaine Place Suite 117, North Tannerborough, NJ 93106",4,1492593,373148.2500
+"USS Vaughn, FPO AA 44829",4,1490604,372651.0000
+"PSC 6928, Box 6359, APO AP 00997",4,1489105,372276.2500
+"USNS Barber, FPO AA 98989",5,1487786,297557.2000
+"918 Rebecca Overpass Apt. 435, Michelleland, NH 05264",5,1481681,296336.2000
+"870 Garcia Stream Apt. 970, North Jasonland, AZ 02538",6,1475511,245918.5000
+"239 Michelle Lake Apt. 536, Barberfurt, HI 64571",5,1458869,291773.8000
+"98605 Dalton Points Suite 827, Smithfort, IA 11307",5,1455209,291041.8000
+"0314 Erik Fields, Hansenmouth, ID 06834",5,1454390,290878.0000
+"472 Brooke Club, East Andrew, IN 36626",6,1453074,242179.0000
+"2500 Sandra Avenue Suite 716, Phillipsside, MO 34831",5,1450036,290007.2000
+"9434 Galvan Mount, Omarmouth, OK 43803",4,1447288,361822.0000
+"202 Bender Point, Sophiabury, VA 28621",4,1445558,361389.5000
+"760 Judy Loaf, Schroederfort, GA 12637",4,1444827,361206.7500
+"875 Hines Coves, Julieview, SD 75158",4,1443471,360867.7500
+"8810 Gomez Island Apt. 729, New Jenniferfort, AK 14850",4,1443395,360848.7500
+"35029 Robinson Plaza, North Michaelchester, NY 28578",5,1439056,287811.2000
+"670 Gibson Crescent, Lake Timothyfort, AL 23365",5,1438976,287795.2000
+"13644 Spencer Knolls, West Leahhaven, MD 31663",6,1434575,239095.8333
+"723 Fuller Mount Apt. 238, Josefurt, CA 81665",4,1420829,355207.2500
+"784 Lee Trace Apt. 822, Port Karen, VT 10037",5,1416435,283287.0000
+"20470 Deborah Row, Lake Dustin, DE 86876",5,1410953,282190.6000
+"USNV Nelson, FPO AE 91510",7,1401952,200278.8571
+"7233 Cathy Roads, Brownshire, NC 60103",5,1399125,279825.0000
+"00709 Stacy Road, Robertsstad, NH 42633",5,1399110,279822.0000
+"Unit 7561 Box 6888, DPO AE 96265",4,1394764,348691.0000
+"987 Jennifer Lodge Apt. 598, Kristentown, ND 71464",5,1394591,278918.2000
+"6621 Rosario Lights, Lake Lauren, AK 10564",4,1391502,347875.5000
+"129 Miller Locks, West Charles, OK 31014",5,1390558,278111.6000
+"98342 Edward Flats, Millerberg, CT 88086",4,1385944,346486.0000
+"1697 Castaneda Flat Suite 940, Taylorside, WY 40622",5,1385624,277124.8000
+"98272 Day Roads Suite 541, Careystad, NJ 19837",4,1383143,345785.7500
+"42279 Fox Mill, Brianmouth, MD 20857",6,1378769,229794.8333
+"4411 Paul Park, Sullivanmouth, OK 54904",4,1375945,343986.2500
+"51283 Harmon Burgs, Marystad, IN 81352",5,1374191,274838.2000
+"4148 Hayes Route Suite 561, Vanessaburgh, ID 22681",6,1368375,228062.5000
+"Unit 9354 Box 5388, DPO AE 09780",6,1367291,227881.8333
+"400 Sellers Point, North Pamela, MI 05886",7,1355539,193648.4286
+"PSC 1756, Box 2386, APO AE 78904",4,1353907,338476.7500
+"1279 Cooley Parks Suite 691, Lake John, RI 26246",5,1350295,270059.0000
+"963 Reynolds Orchard, Moranberg, MO 46882",4,1345522,336380.5000
+"92923 Rodney Street, Kevinfurt, OH 08077",5,1343931,268786.2000
+"Unit 7967 Box 9046, DPO AE 98754",6,1343127,223854.5000
+"PSC 6964, Box 3921, APO AE 35834",5,1343126,268625.2000
+"PSC 8811, Box 7460, APO AA 79409",5,1340682,268136.4000
+"889 Clay Dale Apt. 076, North Nancyborough, DC 47097",4,1339061,334765.2500
+"970 Charles Locks Apt. 343, Thomasfurt, TN 62317",4,1337861,334465.2500
+"462 Reynolds Track, Turnerville, WI 41960",7,1334934,190704.8571
+"USS Smith, FPO AA 14998",4,1330663,332665.7500
+"3253 Vega Field Apt. 318, Perezchester, ME 41005",5,1330008,266001.6000
+"21670 Walker Crest, Estesfort, NY 99095",6,1329697,221616.1667
+"745 Wilson Tunnel, Joytown, NJ 20892",5,1329682,265936.4000
+"8266 Duffy Glen Apt. 545, Rangelberg, OH 70958",5,1328256,265651.2000
+"49821 Lopez Cliff, Andreaville, AL 31761",5,1324002,264800.4000
+"372 Gonzalez Stravenue Suite 808, Katelynborough, NH 30045",4,1323333,330833.2500
+"USCGC Perry, FPO AE 88567",5,1322849,264569.8000
+"098 Rebecca Crescent, Stacyborough, NH 53586",4,1321783,330445.7500
+"337 Townsend Mountains Apt. 303, Lake Cindymouth, WY 31641",6,1309472,218245.3333
+"986 Jason Divide Apt. 703, New Kelli, AR 58091",5,1306850,261370.0000
+"56193 Heather Cove, North Melanieport, MO 30732",3,1305990,435330.0000
+"975 Miller Shore, Bethview, WA 80927",4,1300276,325069.0000
+"3455 Kelley Mountains, Davisside, KS 31917",6,1296502,216083.6667
+"8783 Jackson Roads, Lake David, CT 76237",4,1291437,322859.2500
+"984 Ryan Rest Apt. 300, West Thomas, DE 69773",3,1290160,430053.3333
+"74540 Catherine Manors Apt. 885, New Williamville, RI 57338",5,1286980,257396.0000
+"4035 Kemp Ridges Apt. 654, East Amy, DC 43236",3,1286555,428851.6667
+"860 Byrd Mission Apt. 418, Pricebury, NV 63848",3,1286211,428737.0000
+"USS Wilson, FPO AP 20122",5,1283405,256681.0000
+"USCGC Christian, FPO AA 18927",4,1281604,320401.0000
+"668 Thomas Estates, New Marymouth, IA 56878",4,1278948,319737.0000
+"852 Christine Meadows Apt. 164, East Jillian, NJ 19286",3,1276947,425649.0000
+"89944 Willie Valleys Suite 879, North Bonnie, AZ 56389",4,1275316,318829.0000
+"256 Goodwin Inlet Suite 249, Lake Justinhaven, WV 10811",3,1274058,424686.0000
+"8926 Jones Rue Apt. 847, Lake Kurtside, KY 62801",5,1270734,254146.8000
+"9176 Kenneth View, New Garyberg, IN 37046",5,1270598,254119.6000
+"16276 Amanda Dale Suite 766, East Trevorhaven, AL 57648",4,1269859,317464.7500
+"64715 Michael Avenue, Owensstad, KS 82724",3,1264247,421415.6667
+"061 Harrington Cape, Danielchester, TX 45029",5,1260069,252013.8000
+"1990 Brock Throughway Apt. 520, Vanessaberg, NV 60269",5,1259551,251910.2000
+"93012 Joseph Brooks Apt. 545, West Patriciastad, NH 84904",6,1257847,209641.1667
+"9045 Baker Camp, Kimberlyland, NY 74536",6,1257238,209539.6667
+"5302 Schultz Crescent, New Russell, IL 11396",3,1254574,418191.3333
+"5105 Nancy Shoal Suite 329, West Loriview, MA 16085",5,1251571,250314.2000
+"82444 Barker Ranch, Lake Sonya, DC 93775",5,1249726,249945.2000
+"28672 Wong Spur, Anthonymouth, ID 82246",5,1245104,249020.8000
+"Unit 3189 Box 8264, DPO AA 37731",5,1244826,248965.2000
+"7096 Nicole Track Apt. 625, Port Cathymouth, IN 67620",4,1244183,311045.7500
+"PSC 0571, Box 5109, APO AP 56373",5,1236667,247333.4000
+"696 Lynch Extension Suite 350, Robertville, NV 33314",5,1229662,245932.4000
+"821 Timothy Dam, Port Rubenton, LA 76889",4,1221708,305427.0000
+"0444 Meredith Rest Apt. 217, East Elizabeth, TX 87552",6,1217904,202984.0000
+"796 Dana Flat, West Jeffreyfort, ME 03598",6,1216510,202751.6667
+"1064 Brandon Walks, Lake Lindsey, LA 99470",5,1216340,243268.0000
+"4809 Rick Vista Suite 504, Spenceberg, IA 45407",4,1211655,302913.7500
+"570 Maria Greens, South Anthony, TN 62828",5,1208160,241632.0000
+"942 Tyler Court Suite 585, Evansmouth, MA 17275",5,1207182,241436.4000
+"79097 Pamela Trail Apt. 888, Robertstad, NM 57437",4,1202591,300647.7500
+"4796 Martinez Vista, New Jessefurt, CA 05840",5,1201179,240235.8000
+"7309 Amy Dam Apt. 604, Port Christopher, KS 71138",3,1198397,399465.6667
+"USS Boyd, FPO AA 91214",4,1198203,299550.7500
+"79480 Megan Courts Apt. 427, West Kellyland, AL 78871",5,1194721,238944.2000
+"7888 Martin Spurs Apt. 227, Blacktown, AZ 17198",4,1193752,298438.0000
+"918 Galloway Loaf, West Jonathan, IN 25668",3,1191843,397281.0000
+"547 Henry Highway, Joshuaberg, MN 01060",5,1190064,238012.8000
+"275 Mccann Roads Apt. 550, Nicholsside, DC 41731",5,1189340,237868.0000
+"PSC 2396, Box 8302, APO AA 90147",5,1189261,237852.2000
+"8189 Richardson Pine Apt. 198, Jasonfort, AK 26136",7,1188624,169803.4286
+"Unit 9551 Box 4995, DPO AE 85836",5,1188371,237674.2000
+"7736 Mikayla Flat, East Cody, WI 11194",4,1187461,296865.2500
+"010 Davis Squares Apt. 032, Johnsonberg, WA 25619",5,1186428,237285.6000
+"7591 Justin Shoal Apt. 032, Port Williamland, SC 97900",5,1186419,237283.8000
+"74471 Katherine Neck Suite 756, Ashleyborough, DC 81135",4,1181704,295426.0000
+"19247 Jones Greens, Jeffreyport, MI 43085",5,1180017,236003.4000
+"5158 Murphy Rue, New Jasonshire, CT 32912",5,1179468,235893.6000
+"7669 Tammy Burg Apt. 923, Austinside, WA 14326",3,1177739,392579.6667
+"04207 Clark Track Apt. 728, Pamelaberg, VT 10337",3,1174203,391401.0000
+"93458 Fuller Road, Ramirezbury, MS 54663",3,1172795,390931.6667
+"7836 Wells Rapid, Port Michael, NM 28344",6,1162774,193795.6667
+"62327 Hanson Canyon Apt. 216, Clarktown, AR 17145",4,1162326,290581.5000
+"08199 Adrienne Mall Suite 347, Huertaville, NY 62036",3,1160459,386819.6667
+"913 David Throughway Apt. 554, East Sarastad, ME 85172",4,1155593,288898.2500
+"PSC 5673, Box 5812, APO AA 94775",3,1154166,384722.0000
+"3183 Stevens Spur, Markton, CO 53963",3,1153033,384344.3333
+"051 Phillips Island, Austintown, NY 17136",4,1151100,287775.0000
+"390 Steven Manor, Nicolestad, AZ 02491",4,1146153,286538.2500
+"2613 Moody Springs Apt. 393, Mcphersonmouth, LA 88555",5,1145144,229028.8000
+"03555 Thomas Spring Apt. 325, Port Heidi, TX 45948",5,1136285,227257.0000
+"5206 Jon Parkways Apt. 634, New Theresaburgh, NH 12485",4,1132092,283023.0000
+"172 Delacruz Lake, Justintown, NH 05637",4,1131920,282980.0000
+"3899 Carol Glens, Grahamstad, NC 83057",6,1131634,188605.6667
+"3529 Michele Trail Suite 800, East Jamieborough, WA 64010",5,1128950,225790.0000
+"72213 Steven Stream, Aliciaport, MA 70943",3,1128336,376112.0000
+"35707 Solomon Turnpike, South Michelleland, SC 74856",4,1125973,281493.2500
+"19376 Adam Key, New Danielleberg, WY 86636",6,1123163,187193.8333
+"9611 Richard Estate, Delacruzshire, IA 06904",5,1117895,223579.0000
+"PSC 6033, Box 5353, APO AP 60815",3,1112525,370841.6667
+"Unit 1365 Box 4252, DPO AE 48944",4,1110576,277644.0000
+"5417 Denise Stravenue Suite 107, New Amy, KY 42840",3,1109375,369791.6667
+"261 Patrick Flat, Jasonbury, NE 63586",4,1109222,277305.5000
+"Unit 3174 Box 3160, DPO AA 71848",4,1108263,277065.7500
+"9951 Ann Tunnel, Paulchester, SC 52320",3,1103183,367727.6667
+"72809 Emily Track, South Paulhaven, NV 76111",3,1102536,367512.0000
+"PSC 6116, Box 6816, APO AP 15528",5,1099854,219970.8000
+"3552 Dwayne Forks Suite 012, Johnsonville, CO 90176",3,1099640,366546.6667
+"2438 Garrett Alley Apt. 397, Luismouth, MD 94375",4,1099163,274790.7500
+"691 Thomas Walk Suite 794, Hunterhaven, IL 92415",4,1093855,273463.7500
+"3381 Brandi Crossing Suite 815, Port Kathleenfort, OK 54219",5,1093036,218607.2000
+"881 Ramirez Springs Suite 296, Port Jacqueline, MO 96676",6,1091295,181882.5000
+"USNV Owens, FPO AE 49673",4,1090340,272585.0000
+"Unit 7650 Box 9065, DPO AP 03586",5,1086416,217283.2000
+"77701 Calderon Overpass, West Franklin, KS 81406",5,1086327,217265.4000
+"6000 Phillip Ferry, Rhodeston, VT 57551",4,1086068,271517.0000
+"Unit 4934 Box 9355, DPO AE 28308",3,1085366,361788.6667
+"Unit 6017 Box 2314, DPO AA 29004",3,1085094,361698.0000
+"13677 Brittney Springs Apt. 478, Maryview, AR 76965",4,1084605,271151.2500
+"799 David Canyon Suite 389, Estradaville, KY 23073",5,1083819,216763.8000
+"9040 Miller Shoal Suite 980, South Jamesfurt, IL 87460",3,1082652,360884.0000
+"6584 Wilkerson River, North Stacie, MA 49593",4,1081180,270295.0000
+"707 Candace Land Suite 989, Port Wandashire, NC 90764",3,1071872,357290.6667
+"21477 Doris Fords Apt. 784, Port Stanley, PA 60091",4,1069817,267454.2500
+"5276 Mendez Valley Apt. 638, North Sharon, WA 33168",3,1067952,355984.0000
+"743 Moore Freeway, Port Matthewshire, SC 40187",3,1067915,355971.6667
+"19486 Scott Junctions Apt. 482, East Gabrielle, NE 46311",4,1066168,266542.0000
+"3086 Lawrence Road, North Michael, SC 45744",3,1065757,355252.3333
+"4012 James Wall Suite 836, North Jennifershire, MN 13585",4,1065219,266304.7500
+"58791 Summers Throughway, East Rebecca, MI 17739",3,1065160,355053.3333
+"4559 Duran Isle Suite 282, Deannahaven, WI 61504",4,1062567,265641.7500
+"571 Alyssa Mills, Santanahaven, RI 02908",3,1059107,353035.6667
+"1113 Jeffrey Road, Ronnieborough, AL 83415",4,1056309,264077.2500
+"USNV Reyes, FPO AE 75151",3,1056290,352096.6667
+"434 Barbara Plains Apt. 606, North Mark, AZ 01939",4,1055631,263907.7500
+"019 Murray Way, Angelafort, HI 62012",3,1054501,351500.3333
+"1463 David Island Suite 772, Johnsonbury, NV 53065",5,1053871,210774.2000
+"3439 Kimberly Lodge Apt. 969, Gardnerton, MN 78538",5,1052843,210568.6000
+"970 Daniel Union Apt. 054, South Heathertown, KY 44190",4,1052230,263057.5000
+"527 Carr Expressway Suite 681, South Kimberlymouth, HI 50639",4,1051393,262848.2500
+"692 Cox Overpass Apt. 522, Port Michellemouth, LA 76216",4,1050766,262691.5000
+"423 Martin Haven, West Nancymouth, ND 36775",5,1047985,209597.0000
+"USS Johnson, FPO AA 33291",5,1044606,208921.2000
+"33799 Vazquez Valley, Lake Antonioland, VA 24226",5,1044249,208849.8000
+"421 Amy Glen, East Saratown, TX 48300",5,1039371,207874.2000
+"645 Jennifer Knoll, Jameschester, NC 85463",3,1037714,345904.6667
+"3949 Wilson Mill, West Manuel, AK 26896",5,1032594,206518.8000
+"5446 Dawson Station, East James, MT 75071",3,1032367,344122.3333
+"41590 Wallace Landing Apt. 777, Lake Guyfort, OH 55881",3,1031096,343698.6667
+"89071 Jaclyn Passage, North Nicholas, MA 42066",3,1030778,343592.6667
+"406 Butler Creek, South Diana, RI 62409",3,1029892,343297.3333
+"26679 Karina Trafficway, North Kyle, IN 06515",5,1028860,205772.0000
+"5903 Edward Way Apt. 495, Steventown, VT 15326",3,1021991,340663.6667
+"427 Lisa Street, Brucemouth, NY 71880",5,1021388,204277.6000
+"063 Christopher Heights, North Bobby, MN 05062",4,1020857,255214.2500
+"9778 Rachel Light Suite 986, Elizabethport, PA 71833",3,1016179,338726.3333
+"5447 Nicole Extensions Suite 700, East Scottbury, NY 67780",4,1013263,253315.7500
+"67898 Dawson Summit, Hernandezfurt, VA 83766",4,1013116,253279.0000
+"96185 Sean Mountain, Kevinmouth, NE 73627",3,1012345,337448.3333
+"92656 Todd Tunnel, Thomasfort, VA 60047",3,1011683,337227.6667
+"2610 Tiffany Branch Apt. 012, West Cameron, MD 36048",3,1009463,336487.6667
+"9900 Hunter Dam, Contrerasland, MI 27508",5,1005065,201013.0000
+"988 Kimberly Trail, South David, KS 28294",3,1003962,334654.0000
+"3492 Humphrey Course Apt. 884, Smithshire, ID 39104",4,1001967,250491.7500
+"PSC 2700, Box 2619, APO AA 12834",4,1001876,250469.0000
+"73722 Sheri Islands Suite 758, New Sabrina, FL 01235",3,1000532,333510.6667
+"31229 Robinson Cove, Kingside, GA 95470",5,1000227,200045.4000
+"85814 Orr Islands, Angelberg, ND 75848",3,998399,332799.6667
+"14905 Cole Harbors, Gibsonview, MN 19706",4,994350,248587.5000
+"389 Alexis Dam, East Susan, NJ 43668",4,993137,248284.2500
+"138 Thomas Union, Nicolehaven, NM 80784",4,992195,248048.7500
+"613 Ross Lights Apt. 143, South Sarah, MD 36052",4,991350,247837.5000
+"91510 Brianna Manors, East Evan, OR 62857",4,990962,247740.5000
+"37190 Brian Junction, New Edward, MO 18737",4,987839,246959.7500
+"1060 Michael Mountain Suite 956, South Andrewmouth, IA 63988",4,987405,246851.2500
+"753 Charles Rapids, Tracyport, WA 46579",4,984687,246171.7500
+"75406 Alexander Coves Apt. 661, South Heatherport, IN 55420",3,982482,327494.0000
+"77339 Joseph Knolls, West Todd, OK 22888",4,982368,245592.0000
+"41116 Robbins Street, Ashleyport, MN 42491",4,978280,244570.0000
+"6192 Smith Locks, Port Jared, ME 31211",5,977353,195470.6000
+"85996 Swanson Village, Lake Reginachester, MN 83619",2,977078,488539.0000
+"2497 Christina Island, Rebeccaland, GA 91096",4,976097,244024.2500
+"4467 Michael Hill Apt. 068, Lisahaven, SD 75034",4,975724,243931.0000
+"774 Matthew Cove Suite 251, Coxview, MD 14807",3,974243,324747.6667
+"77312 David Motorway, Davidshire, UT 38400",3,973920,324640.0000
+"439 Neal Light Suite 346, South Jacobview, WA 19009",3,973771,324590.3333
+"3819 Hill Vista Suite 349, Amybury, NM 51050",4,973353,243338.2500
+"79107 Stephanie Valleys, Heatherville, ME 44769",3,971300,323766.6667
+"4281 Barnes Rue, Grossfort, CT 38075",3,969217,323072.3333
+"USNS Fisher, FPO AE 02505",5,968284,193656.8000
+"0923 Jessica Fort, Lake Amanda, NM 08140",3,967144,322381.3333
+"7019 Michelle Pike Apt. 616, Sullivanhaven, FL 14875",3,965139,321713.0000
+"338 Maurice Expressway, East Debraton, MO 72034",7,962380,137482.8571
+"97241 Robert Spurs, South Katrina, KY 70490",3,961641,320547.0000
+"99142 Brown Orchard, Samuelberg, CT 24219",4,961597,240399.2500
+"92852 Bell Spur Suite 827, Whitakerstad, MI 53217",5,961209,192241.8000
+"88546 David Squares Suite 110, Port Katherinemouth, CO 85219",5,960572,192114.4000
+"5000 Thompson Key Apt. 607, East Stephentown, SD 79337",3,959048,319682.6667
+"34046 Sherri Cliffs Suite 952, Jamesview, HI 98358",4,958084,239521.0000
+"60316 Brianna Pine Apt. 738, New Barbaraport, RI 36503",3,956188,318729.3333
+"551 Smith Forges, Christopherview, NC 98216",3,954243,318081.0000
+"6413 Jones Freeway Apt. 485, Chavezport, VA 50679",4,953710,238427.5000
+"545 Guy Tunnel, Lewisfurt, NH 74513",4,953583,238395.7500
+"17471 Stacy Coves Apt. 573, New Madeline, ND 14565",4,949635,237408.7500
+"63916 Stephen Lock Suite 339, New Michelle, MO 87251",4,946958,236739.5000
+"USNS Lucas, FPO AP 89370",4,945898,236474.5000
+"7016 Brianna Keys Apt. 615, West Masonburgh, SD 80937",2,944358,472179.0000
+"7126 Myers Mountains, South Jeffreyburgh, WA 87261",3,941136,313712.0000
+"04304 Christine Corner Suite 480, Port Cindy, ND 39068",3,939959,313319.6667
+"3337 Brown Estates, East Joelland, NH 90080",4,936543,234135.7500
+"870 Kathryn Crossing, Port Sandra, MI 13497",3,935163,311721.0000
+"157 Joseph Heights, Lake Johnmouth, IL 77859",3,934547,311515.6667
+"983 Ellis Estates Suite 798, Williamfurt, MD 52116",5,934307,186861.4000
+"097 Cynthia Glen Suite 725, North Amandahaven, NH 78452",3,932470,310823.3333
+"672 Cynthia Island Suite 536, Susanfort, CA 51521",5,927946,185589.2000
+"82041 Deleon Inlet, Dawntown, CO 95276",3,926343,308781.0000
+"66572 Johnson Cliff Apt. 175, Valentinehaven, CA 91672",3,923988,307996.0000
+"68377 Villarreal Bridge Apt. 055, Jennaland, OH 98290",6,923636,153939.3333
+"252 Holder Springs Suite 280, South Heatherberg, TX 14366",4,922324,230581.0000
+"98660 Paul Union, Lake Stacey, CO 32993",3,921389,307129.6667
+"97899 Tracy Point, Washingtonstad, UT 06671",4,919496,229874.0000
+"481 Watts Cliffs Apt. 028, New Daniel, RI 16680",4,918609,229652.2500
+"PSC 6210, Box 8599, APO AP 40183",3,917366,305788.6667
+"6294 Mcclure Ridges Apt. 532, Porterfurt, MS 09973",4,914139,228534.7500
+"03477 Matthew Course Apt. 117, Port Shannon, IA 31944",3,913365,304455.0000
+"7434 Black Brook Suite 242, Stephensview, CA 29894",4,912796,228199.0000
+"965 Baker Camp, Medinaburgh, WY 65089",2,911401,455700.5000
+"04017 Cassandra Trafficway, North Becky, NV 69833",3,909586,303195.3333
+"562 John Circle Apt. 160, Alexandraburgh, MO 56805",3,909382,303127.3333
+"92759 Atkinson Extension Suite 054, West Luis, OH 27510",3,908589,302863.0000
+"753 Franklin Fords, Jamesbury, IL 56996",3,906720,302240.0000
+"393 Jessica Avenue Suite 527, East Cody, DE 56135",4,906539,226634.7500
+"USNV Malone, FPO AE 41286",3,900328,300109.3333
+"1944 Santos Via Apt. 212, Grantport, ME 03615",4,897476,224369.0000
+"9891 Jarvis Drive, New Danielleville, NE 71284",3,896297,298765.6667
+"41377 Danny Track Apt. 936, Jacobburgh, UT 82631",3,895183,298394.3333
+"98106 Jennifer Shoal Apt. 675, Port Vanessaport, NJ 87292",3,894200,298066.6667
+"722 Lisa Views Suite 987, West Diane, NC 45936",5,893383,178676.6000
+"37695 Stephanie Track, Walkerport, MO 76461",3,893340,297780.0000
+"8303 Maria Squares, Michaelmouth, NM 66517",3,889241,296413.6667
+"42151 Theresa Estate Suite 689, Lake Julie, MA 28684",3,888778,296259.3333
+"292 Elliott Plains, Parkerview, NC 09818",5,886311,177262.2000
+"26780 Washington Meadow, West Diane, IN 64910",6,883321,147220.1667
+"USS Johnson, FPO AE 49166",5,880453,176090.6000
+"8374 Shirley Greens Suite 987, Lake Richard, AR 61748",4,879842,219960.5000
+"996 Chad Walks Apt. 360, Rodrigueztown, TX 74086",3,878958,292986.0000
+"2623 Franklin Island, Grayshire, AK 82343",5,877830,175566.0000
+"9030 Regina Causeway, Colefurt, RI 79688",3,877286,292428.6667
+"775 Harry Junctions Apt. 622, Lake Jean, KY 49738",3,876836,292278.6667
+"235 Jennifer Roads Suite 433, Dustinland, VA 20609",4,875565,218891.2500
+"USNV Mason, FPO AA 97002",3,874440,291480.0000
+"8567 Ortiz Rapid Apt. 263, Emilystad, MD 88141",3,874143,291381.0000
+"Unit 1840 Box 7533, DPO AE 88298",5,873298,174659.6000
+"6251 Jefferson Rapids, Brandonport, MT 25915",2,872828,436414.0000
+"500 Darren Harbors, Kellistad, NH 48253",5,870652,174130.4000
+"9599 Garcia Place, Mayside, IN 73757",4,869734,217433.5000
+"4462 Drake Inlet, Valeriefurt, CA 02077",3,864663,288221.0000
+"0010 Benjamin Stravenue Apt. 496, Richardside, PA 40011",4,863158,215789.5000
+"PSC 5127, Box 2223, APO AP 82582",3,862486,287495.3333
+"USCGC Matthews, FPO AP 03789",4,860946,215236.5000
+"5432 Ramos Loaf, Josephberg, MS 37157",3,860321,286773.6667
+"7933 Kyle Parks Apt. 116, West Christinashire, IN 28924",4,860024,215006.0000
+"21968 White Fork, Erictown, CT 65686",5,859577,171915.4000
+"03444 Montes Islands Apt. 510, Maryport, WA 13862",4,858618,214654.5000
+"9476 Kim Plaza Apt. 470, Laurieville, AR 09035",3,857509,285836.3333
+"9519 Wise Bridge, North Richard, SC 87199",3,855396,285132.0000
+"76637 Terri Freeway, New Todd, OK 21295",2,853404,426702.0000
+"978 Allen Mountain, West Wendy, ND 28584",2,852957,426478.5000
+"7733 Rickey Freeway, Susantown, MT 24351",4,852873,213218.2500
+"6409 Kristin Island, Jamesville, SC 09767",4,852696,213174.0000
+"0391 Richard Union, North Phillip, IL 66679",3,851843,283947.6667
+"603 Thomas Villages, Blankenshipland, DE 66992",3,851327,283775.6667
+"2492 Alexander Greens, Coopershire, UT 19027",4,851215,212803.7500
+"01679 Leslie View, South Jimmyland, WA 89681",3,849016,283005.3333
+"859 Marvin Harbors Apt. 009, North Normanstad, AZ 60461",4,848510,212127.5000
+"14710 Smith Pines Apt. 315, Davischester, MS 14893",2,846766,423383.0000
+"3540 Smith Shoals Apt. 036, West Robinport, SC 20801",3,846224,282074.6667
+"PSC 8498, Box 8689, APO AE 17263",3,844323,281441.0000
+"85504 Ariana Unions, Lucasmouth, IN 94390",3,843779,281259.6667
+"781 Danielle Summit Apt. 155, East Emilyport, GA 35793",3,843101,281033.6667
+"669 Robinson Overpass Apt. 142, Dennischester, MI 24306",3,837393,279131.0000
+"9794 William Walks, West Ashley, KS 71471",2,835783,417891.5000
+"USCGC Smith, FPO AA 85248",4,834532,208633.0000
+"740 Pitts Crest Apt. 195, Donaldsonland, VA 88220",3,833857,277952.3333
+"893 Cherry Island, East Jonathon, TN 29796",3,833834,277944.6667
+"20800 Murray Tunnel Suite 328, Nancyton, SC 48176",2,831708,415854.0000
+"98827 Elizabeth Village, Lake Juliaville, CT 76409",4,830888,207722.0000
+"289 Kevin River Apt. 283, Keithfurt, MT 19915",3,829865,276621.6667
+"Unit 7219 Box 0318, DPO AP 13876",3,829230,276410.0000
+"34504 Arnold Village Suite 585, Kiddburgh, UT 34322",2,828658,414329.0000
+"0187 Ellis Stravenue Apt. 893, Lake Jamie, OH 74295",3,827119,275706.3333
+"4732 William Path, Crystaltown, NV 49857",7,826456,118065.1429
+"86307 Nathan Ville Suite 022, South Mark, RI 50004",3,826402,275467.3333
+"16379 Ashley Corner, West Lisa, AR 71898",2,824411,412205.5000
+"3228 Baker Ridge, South Danny, DE 32117",3,823890,274630.0000
+"386 Sanders Skyway Apt. 065, Baileyport, MS 33892",3,821543,273847.6667
+"78921 Hogan Shoals, New Rachelton, FL 80397",3,820801,273600.3333
+"207 Banks Extensions, New Jamesborough, OR 66829",5,815011,163002.2000
+"PSC 8722, Box 8392, APO AA 07692",3,813234,271078.0000
+"668 Reese Manor Suite 249, New Jacqueline, NJ 13625",3,813232,271077.3333
+"PSC 3193, Box 0544, APO AA 86780",3,813197,271065.6667
+"70296 Jesse Forges Apt. 217, Jacobton, NH 86507",2,812812,406406.0000
+"PSC 1949, Box 9460, APO AP 51053",3,812630,270876.6667
+"889 Perez Extensions Apt. 785, Thomasland, NM 68030",3,812057,270685.6667
+"75547 Kelly Divide, East Robertburgh, MI 26626",3,810370,270123.3333
+"76628 Shawn Estate, Fernandeztown, DE 83775",3,810228,270076.0000
+"3115 Linda Village, Thomasview, TX 20681",4,803888,200972.0000
+"7332 Hawkins Track, South Andrewbury, IL 77750",2,802038,401019.0000
+"3946 Boyer Hill Suite 560, West Prestonview, AR 43034",5,801806,160361.2000
+"3192 Amanda Village Apt. 905, Matthewshire, MN 87489",5,801608,160321.6000
+"96219 Joshua Gardens Apt. 272, East Mariafurt, MT 26556",2,798846,399423.0000
+"0258 Ramirez Mount, Pamelaport, AL 73571",2,798706,399353.0000
+"059 Kimberly Circle, Proctorburgh, ID 66859",2,796038,398019.0000
+"2169 Richard Stream Apt. 022, Lake Jennifer, IA 04159",2,794931,397465.5000
+"99729 Raymond Passage Suite 553, East Davidchester, NH 90068",3,791881,263960.3333
+"31644 Larson Walk Suite 023, Bobbymouth, NV 35487",3,791160,263720.0000
+"8424 Lauren Ford Apt. 873, West Amy, WA 74718",3,790555,263518.3333
+"Unit 2218 Box 2075, DPO AP 01262",3,789430,263143.3333
+"2894 Knight Dale Suite 858, Jerryhaven, MO 31938",3,787347,262449.0000
+"901 Harper Spurs Apt. 563, Kenthaven, MI 22964",3,785010,261670.0000
+"6975 Rebecca Burg Suite 461, Mckinneyland, DE 50315",2,784108,392054.0000
+"2389 Morris Canyon, Khanborough, IL 96590",3,783465,261155.0000
+"58321 Dale Mountains Apt. 682, Jamesville, DC 97744",3,779399,259799.6667
+"283 Sarah Lodge Suite 235, Brownmouth, DC 59142",3,774398,258132.6667
+"694 Crystal Skyway, Jessicaborough, RI 25542",2,771648,385824.0000
+"0469 Antonio Squares Apt. 569, Port Beth, NV 47650",3,769705,256568.3333
+"46609 Noble Stream Suite 719, Cooperview, OR 14754",2,769682,384841.0000
+"66609 Nicholas Viaduct, South Christianburgh, UT 93466",2,769290,384645.0000
+"PSC 8937, Box 0545, APO AP 10095",4,767620,191905.0000
+"33300 Wallace Passage, Carpenterfurt, OH 26282",4,767582,191895.5000
+"9224 James Ville, Liland, MS 43837",3,766867,255622.3333
+"59003 Bailey Lake, Lake Juanton, LA 20031",2,765185,382592.5000
+"USNS Jackson, FPO AA 49694",2,759893,379946.5000
+"48725 James Canyon, New Vernonport, AZ 32639",2,759774,379887.0000
+"PSC 2396, Box 3266, APO AA 25821",4,758069,189517.2500
+"270 Stephen Rapids Apt. 342, Lake Brenda, VA 09794",3,757774,252591.3333
+"99127 Erin Extension Suite 786, Port Reginafurt, TX 12751",4,756931,189232.7500
+"238 Miller Circles Apt. 520, Port John, TX 88835",3,756604,252201.3333
+"PSC 7432, Box 7478, APO AA 81048",2,755516,377758.0000
+"67825 Henry Extensions Apt. 130, New Ashleyville, AK 49175",3,755026,251675.3333
+"17027 Austin Shoal, West Benjaminberg, LA 47078",2,754268,377134.0000
+"8593 Reynolds Corners, Nelsonville, KS 62208",4,753260,188315.0000
+"9779 Mason Corner, North Danielle, DE 65956",2,752925,376462.5000
+"47703 Russo Ville, Lake Michaelmouth, MA 38800",4,752173,188043.2500
+"66972 Paul Field, Lake Ernestberg, VT 77229",2,750653,375326.5000
+"7183 Brian Court Suite 435, Port Ericaton, GA 68765",2,748939,374469.5000
+"PSC 4506, Box 1800, APO AA 37679",2,748201,374100.5000
+"80218 Virginia Valley Suite 296, Patriciamouth, ME 70625",3,746001,248667.0000
+"3645 Lozano Via, South Stephanieton, TX 67588",4,745672,186418.0000
+"Unit 9800 Box 2830, DPO AE 78014",3,745142,248380.6667
+"09805 Mccullough Mills Apt. 222, New Gregg, CA 12620",2,744592,372296.0000
+"75791 Ayala Mountain Apt. 916, Margaretmouth, WI 23705",4,742758,185689.5000
+"451 Lucas Lock Apt. 097, Port Amy, TN 95672",3,738509,246169.6667
+"0912 Conner Meadow Suite 068, Maryport, WY 72370",2,736274,368137.0000
+"59512 Tucker Glen, Rogersfurt, LA 14491",2,735866,367933.0000
+"66683 Jennifer Ports Suite 719, Emilystad, AZ 01696",3,733386,244462.0000
+"011 Timothy Ramp, Alexanderberg, AK 41286",3,732721,244240.3333
+"885 Heather Creek Apt. 854, East Charlotte, WY 32697",3,730289,243429.6667
+"779 Elizabeth Knoll Suite 419, East Tammy, MO 93062",2,728447,364223.5000
+"0032 Jason Divide Apt. 672, Jenniferberg, MI 38979",3,725185,241728.3333
+"9824 Escobar Springs, Joannechester, NY 98209",3,724274,241424.6667
+"916 Moore Keys, Sandraburgh, NV 76815",2,724013,362006.5000
+"0858 Erik Islands, Lake Lori, WV 51962",3,722785,240928.3333
+"81028 Joshua Village, East Christopherside, GA 38030",3,721352,240450.6667
+"652 Elizabeth Square Suite 249, New Stephanieland, VA 15530",4,720614,180153.5000
+"414 Acosta Vista Suite 561, Sheppardmouth, MI 46008",2,720281,360140.5000
+"1780 Stewart Ramp, New Natasha, AK 83808",2,718638,359319.0000
+"1940 Kimberly Gardens Apt. 094, East Sabrinabury, SD 44816",3,717506,239168.6667
+"5020 Bryan Harbor, Ethanmouth, ID 88709",2,717408,358704.0000
+"69165 Edward Mountain Apt. 579, South Alexandra, CT 49248",2,716927,358463.5000
+"1378 Beasley Valley Apt. 932, Tuckermouth, MT 89849",2,712266,356133.0000
+"515 Henson Course, Taylorland, FL 11387",4,711241,177810.2500
+"10093 Savannah Row, Longton, MN 93570",2,710246,355123.0000
+"8057 Allen Oval Suite 075, Port Marcbury, WI 04040",3,710151,236717.0000
+"28012 Robinson Views Suite 280, Kingmouth, DE 72423",2,708364,354182.0000
+"PSC 8942, Box 5440, APO AA 92758",3,701899,233966.3333
+"63087 Martin Fall, South Lynnland, ID 09582",3,701375,233791.6667
+"491 Timothy Parks, Scottbury, AR 79128",2,701319,350659.5000
+"53921 Monique Creek Suite 949, Liborough, NC 48213",3,700939,233646.3333
+"Unit 3702 Box 2458, DPO AE 14724",4,700021,175005.2500
+"253 Bailey Junctions, Susanmouth, WV 58797",4,699718,174929.5000
+"066 Daniel Trafficway Suite 747, East Heatherview, MA 74387",3,698273,232757.6667
+"069 Mendoza Branch, Port Jason, DC 17226",3,697839,232613.0000
+"3177 Williams Trafficway Apt. 266, Port Lori, WV 96132",2,697408,348704.0000
+"98076 Davis Manor, Lindseyside, TN 60904",2,695875,347937.5000
+"992 Munoz Alley Apt. 897, Donnaberg, WA 91348",3,694480,231493.3333
+"658 Larsen Radial Suite 489, Armstrongbury, PA 60458",2,692123,346061.5000
+"0604 Mason Divide Apt. 123, Torreston, RI 44155",3,691111,230370.3333
+"13209 Pamela Tunnel, North Roberto, AL 34993",2,690716,345358.0000
+"8133 George Underpass, South Linda, KS 37365",4,690670,172667.5000
+"1192 Shelley Circle, Janetshire, MA 09686",3,681870,227290.0000
+"56670 Melanie Pike, Dawnfort, WI 89018",3,680525,226841.6667
+"61148 Williams Ford Suite 856, Butlertown, WI 03981",3,679130,226376.6667
+"724 Tiffany Fall Suite 334, North Kevinburgh, SD 45307",2,674516,337258.0000
+"85702 Yvette Fork Apt. 762, Jonathantown, LA 30303",2,673826,336913.0000
+"64890 Veronica Roads, Brianberg, TN 27621",2,673674,336837.0000
+"91274 Donald Forges Apt. 802, Coopermouth, WA 87810",3,671398,223799.3333
+"54514 Kelly Orchard Apt. 791, Lake Angelaport, IN 92452",5,664283,132856.6000
+"Unit 7129 Box 6171, DPO AP 41720",3,663774,221258.0000
+"770 Martin Lights, Schultzmouth, KY 37285",4,663527,165881.7500
+"311 Winters Pike, Millerfort, MI 97240",3,661435,220478.3333
+"80527 Jennifer Valleys, Lake Christopher, WI 16415",3,661078,220359.3333
+"55341 Cooper Land Suite 031, North Shane, GA 79771",3,660744,220248.0000
+"78342 Diaz Plains Suite 264, Emilyshire, HI 65554",4,660680,165170.0000
+"2962 Jeremy Inlet Apt. 786, Richardstad, NC 41442",3,658135,219378.3333
+"0587 Nicholas Hollow, Villegaschester, OR 34943",3,657960,219320.0000
+"PSC 6940, Box 2193, APO AA 15273",3,655860,218620.0000
+"29458 Kimberly Flats Apt. 567, Pamelaport, NY 37191",4,655568,163892.0000
+"94880 Patel Path, Cindyborough, FL 74558",4,654320,163580.0000
+"7225 Thomas Junctions, Daniellefort, OR 94588",2,653677,326838.5000
+"74874 Cynthia Glens, Ambermouth, SD 75769",3,652865,217621.6667
+"73249 Silva Bridge Suite 895, Mcmahonville, AL 15674",3,651955,217318.3333
+"3954 Kimberly Skyway Suite 496, Austinberg, CT 72736",3,650638,216879.3333
+"720 Brown Crossing Suite 306, Caitlintown, DC 70148",3,650618,216872.6667
+"Unit 7481 Box 4773, DPO AA 73299",3,649725,216575.0000
+"32835 Holmes Row Suite 850, Torresbury, CA 29442",2,649647,324823.5000
+"461 Jose Orchard Suite 999, Theresaland, MN 96942",2,645866,322933.0000
+"32029 Hunter Spur, Christopherberg, PA 25802",4,642955,160738.7500
+"0571 Kyle Ford, Rossville, IN 84934",3,640620,213540.0000
+"Unit 8535 Box 7007, DPO AE 80737",4,639512,159878.0000
+"08246 Joann Trail, Arnoldfort, NH 17321",4,637981,159495.2500
+"07389 Montgomery Mills Suite 557, Lake Gary, AZ 36974",3,637147,212382.3333
+"02797 Howard Path, East Curtisstad, UT 07217",3,636810,212270.0000
+"3361 Alyssa Freeway, Wrightside, CT 05299",3,636738,212246.0000
+"2688 Heather Hill, New Staciehaven, NE 27036",4,636155,159038.7500
+"45295 Sampson Mill Suite 962, West Courtney, WV 97583",4,635641,158910.2500
+"547 Wiley Port Suite 587, Durhamstad, MI 94745",2,635295,317647.5000
+"1546 Helen Hollow, South Deannamouth, TN 34694",2,635144,317572.0000
+"PSC 1932, Box 1410, APO AA 05427",3,631278,210426.0000
+"59593 Joshua Spur, West Sarah, NH 77009",2,630733,315366.5000
+"227 Santos Via Apt. 127, Kimberlyfurt, OH 47025",2,630440,315220.0000
+"4203 Rachel Center Apt. 816, Lake Yvettehaven, CO 21542",3,629237,209745.6667
+"2336 Vang Stravenue Apt. 041, Port Melissamouth, MI 51566",2,628298,314149.0000
+"578 Pearson Dam Suite 036, Meghanfurt, LA 16867",2,627990,313995.0000
+"692 Pena Glens Apt. 294, South Michaelchester, CA 18662",4,627870,156967.5000
+"39577 Anthony Lakes, Rileyborough, WV 77493",3,625344,208448.0000
+"073 Harper Rue Suite 635, South Ericfort, LA 05184",3,624190,208063.3333
+"600 Soto Stravenue Suite 644, Garciaton, NJ 48787",5,623594,124718.8000
+"012 Adam Place, Lindsayberg, AK 39875",4,622875,155718.7500
+"93197 Hudson Stravenue Suite 695, West Danaport, IN 49100",2,622661,311330.5000
+"8999 West Parkways Apt. 741, Petersenbury, ID 84137",2,622478,311239.0000
+"3821 Frances Hollow Suite 299, Obrienshire, OK 48450",4,622375,155593.7500
+"883 Amy Roads Suite 723, East Rhonda, PA 88822",2,621983,310991.5000
+"39508 Reed Ferry, Bowenton, NH 67480",3,621709,207236.3333
+"0043 Robert Field Suite 873, Brownview, NV 79405",3,619691,206563.6667
+"286 Richard Point Apt. 340, Port Cheyenneton, NV 07121",2,619358,309679.0000
+"84934 Petty Tunnel Apt. 786, South Johnhaven, IL 73928",2,618840,309420.0000
+"0328 Sandra Fall, East Roseview, NE 99892",2,617834,308917.0000
+"7745 Jesse Flat, South Pamela, MN 16821",2,616576,308288.0000
+"6818 Davidson Circles Apt. 457, North Frankbury, ME 51556",2,616100,308050.0000
+"2823 Michelle Forest Suite 652, West Christinaview, MI 26816",2,616022,308011.0000
+"5114 Hampton Neck, Port Erikhaven, SD 35408",3,615759,205253.0000
+"5170 Richard Ramp, East Joshua, FL 68379",4,615429,153857.2500
+"85064 Velez Way, East Rebeccashire, SD 46870",5,614462,122892.4000
+"2351 Jacqueline Estates, Doughertyberg, AK 15443",2,614249,307124.5000
+"62947 Cohen Motorway, West Samuel, VT 58649",3,612637,204212.3333
+"8424 Arnold Extension, Melissatown, MA 09245",2,609145,304572.5000
+"385 David Estate Apt. 921, West Antonioshire, NC 26057",3,605968,201989.3333
+"4009 Sanchez Road, East Angela, MT 74175",3,605392,201797.3333
+"PSC 5243, Box 9407, APO AE 12409",2,603643,301821.5000
+"733 Jerry Walks Apt. 141, New Wendy, WA 62985",2,599544,299772.0000
+"05135 Howell Valley, Tanyashire, ND 51679",4,597860,149465.0000
+"551 Paul Orchard, Kristenborough, DC 13436",4,597331,149332.7500
+"020 Edward Shoal, Port Abigail, WA 35071",2,597159,298579.5000
+"579 Justin Route, Coxberg, OR 73569",5,592307,118461.4000
+"382 Dominguez Center, New Rachael, LA 02364",2,591962,295981.0000
+"260 Reed Rue Suite 941, West Lisahaven, MO 41190",4,591849,147962.2500
+"8884 Jenny Center, Rogerside, MT 19116",2,589674,294837.0000
+"990 Greer Cove Suite 592, North Nicholasfurt, CO 75515",4,589166,147291.5000
+"USCGC Miller, FPO AA 51970",2,589123,294561.5000
+"USS Allen, FPO AA 13316",2,588760,294380.0000
+"Unit 0307 Box 1827, DPO AP 76971",3,586876,195625.3333
+"5865 Amy Glen, Hollyland, ID 31167",2,585020,292510.0000
+"32224 Dylan Knolls Apt. 213, Wyatthaven, DC 29134",3,583980,194660.0000
+"777 Abigail Isle, East Joel, AL 84201",3,582511,194170.3333
+"366 Robert Knolls, North Shane, AL 78457",2,581879,290939.5000
+"USNV Pacheco, FPO AE 43148",3,579632,193210.6667
+"132 Chad Dale Suite 836, Tracyfort, AR 98990",4,579542,144885.5000
+"99934 Joshua Viaduct Suite 679, South Aaron, AR 26341",2,577429,288714.5000
+"7438 Fernandez Meadows Suite 236, Blakeberg, MD 47063",3,572613,190871.0000
+"064 Karen Tunnel, New Carolyn, NE 65372",5,569325,113865.0000
+"79920 Derek Mountain, West Paul, HI 63145",2,565132,282566.0000
+"99828 Ryan Fort, Jessemouth, LA 14073",2,564001,282000.5000
+"49522 Brooks Gardens, Mcknightfurt, NM 03431",4,563676,140919.0000
+"6148 Kathryn Ranch, South Charles, OH 13424",3,561706,187235.3333
+"155 Burton Underpass, Lake Shawn, IA 85436",2,560042,280021.0000
+"8726 Benjamin Overpass Suite 779, Davidfort, DC 99214",2,558542,279271.0000
+"948 Ramirez Lakes Suite 074, Lake Jamesshire, IN 83787",3,557939,185979.6667
+"4879 Perez Lakes Apt. 051, Joshuabury, MS 56812",4,555997,138999.2500
+"USCGC Collins, FPO AE 80990",3,554233,184744.3333
+"59813 Graves Terrace, East Valerie, AK 65519",2,552984,276492.0000
+"51355 Kimberly Glen Apt. 499, New Samantha, OH 68288",2,548976,274488.0000
+"559 Brittany Springs, Lindaton, UT 67614",3,547861,182620.3333
+"25015 Bell Light Apt. 886, Maddenstad, MN 44170",4,547833,136958.2500
+"5789 William Mills Suite 153, East Angelicaville, SD 01173",2,547189,273594.5000
+"462 Timothy River, East Taylor, GA 29359",2,542965,271482.5000
+"249 Andrew Mission Suite 873, New Richard, LA 16359",2,540237,270118.5000
+"3405 Taylor Run Suite 534, Lake Keithfort, KY 86909",3,538595,179531.6667
+"4934 Carlos Shores Suite 171, New Christina, MA 72899",3,537741,179247.0000
+"00805 Hawkins Estates Suite 127, Simmonsbury, KS 24709",3,534931,178310.3333
+"371 Nicole Wells, Rowlandborough, ND 61287",3,534113,178037.6667
+"1595 Mckinney Gardens Suite 415, South Marcusfort, MA 35446",3,533167,177722.3333
+"81943 Brown Bridge, East Michaelbury, TX 79376",4,533119,133279.7500
+"27557 Burgess Springs Apt. 409, Liumouth, CO 48621",3,532579,177526.3333
+"7793 Oconnor Shoal Suite 328, West Jenniferport, AR 28794",2,531879,265939.5000
+"8697 Carrillo Walks Suite 135, Garciachester, WA 48227",3,531173,177057.6667
+"61032 Stevens Route Suite 890, Debraberg, NC 80548",4,530082,132520.5000
+"2871 Frey Fork Apt. 833, West Christopher, MT 67223",2,527101,263550.5000
+"1520 Rhonda Drive, Smithview, MO 55495",3,525667,175222.3333
+"8290 Roberts Crest Suite 049, North Herbert, OR 50621",2,525186,262593.0000
+"Unit 7120 Box 7378, DPO AA 98240",2,524068,262034.0000
+"087 Chandler Locks, Martinezton, AR 93851",3,521423,173807.6667
+"93207 Joseph Freeway, Roseview, SD 67155",2,521176,260588.0000
+"80329 Latoya Road Apt. 721, Zacharyland, MT 20311",2,519421,259710.5000
+"217 Meghan Walks, West Sarah, IA 89305",3,518113,172704.3333
+"522 Madison Path, South Marvinberg, IL 19736",2,517608,258804.0000
+"8272 Samantha Forge Suite 494, East Scott, CT 88540",2,516571,258285.5000
+"USNV Mcdowell, FPO AA 19120",3,513859,171286.3333
+"438 Roberts Village, Transide, NH 41831",2,513289,256644.5000
+"605 Alan Knolls Apt. 594, Dillonfort, MT 63714",4,511291,127822.7500
+"066 Fleming Ramp Apt. 027, New Claudia, MT 51554",2,510854,255427.0000
+"424 Griffin Islands Apt. 582, Diamondshire, DC 87658",3,508803,169601.0000
+"0676 Joseph Skyway Apt. 482, East Michael, SC 12259",4,506811,126702.7500
+"599 Erik Inlet Suite 608, West Lauraport, NY 22314",4,505347,126336.7500
+"342 Mitchell Courts, West Joseph, OR 93567",3,504300,168100.0000
+"3599 Scott Stravenue Apt. 251, North Jacobchester, NJ 25675",2,503190,251595.0000
+"60649 Andrea Throughway, New Dennischester, KS 11370",3,502568,167522.6667
+"813 Martinez Squares, Eileenview, UT 30882",2,502133,251066.5000
+"461 Daniel Brook, Cervantesland, MD 26683",3,500771,166923.6667
+"09643 Ashley Views Apt. 811, Sandratown, WV 92223",3,499674,166558.0000
+"983 Burke Island Apt. 468, Robinsonview, MS 37766",1,498804,498804.0000
+"Unit 4505 Box 6561, DPO AE 44327",1,498775,498775.0000
+"431 Stacey Streets, East Sonya, TX 01768",2,498260,249130.0000
+"58607 Linda Skyway Suite 026, Donnaburgh, AK 15379",2,498093,249046.5000
+"501 Andrew Pine Suite 271, Port Debra, WY 66881",2,497186,248593.0000
+"2118 Tina Coves, West Chadshire, TN 57766",1,494785,494785.0000
+"479 Williams Terrace Suite 429, New Christopherhaven, LA 32337",2,492802,246401.0000
+"124 Shaw Mountain Suite 166, New Vanessa, UT 80579",2,492681,246340.5000
+"414 Bradley Extension Apt. 881, South Kelly, CA 88543",3,492342,164114.0000
+"786 Angela Mills Apt. 297, Kathleenfurt, NH 33331",3,491409,163803.0000
+"228 Bryant Square Apt. 090, Williamsmouth, TN 78537",2,489774,244887.0000
+"42303 Martin Lodge Apt. 498, Millerchester, WI 06203",2,489636,244818.0000
+"7727 Cody Pines, Kathryntown, WV 72402",2,487204,243602.0000
+"24218 Shepherd Pines, Kimberlybury, CO 54403",3,485220,161740.0000
+"744 Melissa Valley, Port Lisa, TX 82650",4,484778,121194.5000
+"2300 Lisa Glens Apt. 830, Traciberg, KY 33717",3,484438,161479.3333
+"594 David Mount Suite 312, Lake Jamestown, WV 22786",2,483176,241588.0000
+"0039 Holland Ridge, West Russellview, TN 53840",1,482937,482937.0000
+"446 Rodriguez Drive Suite 670, West Kathy, MO 94778",1,481311,481311.0000
+"693 Linda Dam, New Williammouth, VA 97123",1,480061,480061.0000
+"18152 Stacy Islands Suite 127, South Brandonfort, VA 61492",2,478853,239426.5000
+"684 Mary Flat Suite 605, New Jennifer, IA 56765",1,478439,478439.0000
+"11960 Michael Vista Suite 905, Benjaminland, LA 72480",1,478437,478437.0000
+"798 Shirley Park Suite 531, North Virginiahaven, DE 71541",2,476598,238299.0000
+"417 Grimes Roads, Curryland, OH 17222",2,475417,237708.5000
+"14221 Joseph Prairie Suite 775, North Gregoryton, PA 95178",2,475108,237554.0000
+"1272 Kimberly Canyon Apt. 778, Stevenberg, AK 22131",1,475051,475051.0000
+"5107 Gabriel Roads Suite 287, Russellhaven, FL 06047",3,474477,158159.0000
+"66788 White Flat, Garciaville, PA 90714",3,474388,158129.3333
+"327 Elizabeth Bypass, Lake Carolynland, PA 18182",1,474014,474014.0000
+"PSC 4883, Box 6574, APO AE 45821",4,473413,118353.2500
+"68160 James Trail Apt. 530, North Lee, MN 47525",4,471347,117836.7500
+"963 Christian Wells, Jacksonville, MN 65153",3,470670,156890.0000
+"79297 Dean Hollow Apt. 401, Mercerborough, FL 45154",1,469923,469923.0000
+"60953 Donna Run Apt. 530, Rosaleschester, IN 29947",1,468694,468694.0000
+"90935 John Heights Suite 351, North Corey, AR 79938",3,468688,156229.3333
+"PSC 1516, Box 2653, APO AA 01572",3,465285,155095.0000
+"86432 Andrea Burg Suite 270, Jillton, NM 43683",2,465109,232554.5000
+"035 Rose Point, Jonestown, MT 00683",1,464942,464942.0000
+"27686 Spencer Stravenue Apt. 347, Johnview, DE 35012",2,464831,232415.5000
+"67493 Corey Circles Apt. 637, Raymondshire, AK 34906",1,464298,464298.0000
+"159 Duran Springs, Lake Matthewland, IA 68615",2,462679,231339.5000
+"271 Robinson Shore Suite 850, Thomasside, NY 96382",1,460558,460558.0000
+"6452 Ashley Unions, South Kenneth, NM 17398",1,460480,460480.0000
+"539 Sandra Tunnel, New Elizabethhaven, AR 59788",1,459917,459917.0000
+"528 Carr Run, South Danielle, WI 08654",3,459874,153291.3333
+"271 Veronica Ports, New Sandra, PA 57958",2,457128,228564.0000
+"35532 Stephanie Extension, Debbieborough, OK 37223",2,457039,228519.5000
+"9975 Stanley Points, South Steve, OH 04005",3,455935,151978.3333
+"80228 Maureen Tunnel, Alexandraberg, ND 76142",2,455769,227884.5000
+"792 Watts Brook, Lake Raven, SD 95729",2,454477,227238.5000
+"3336 Rhonda Cliff Suite 076, New Todd, NY 60695",2,453394,226697.0000
+"Unit 5826 Box 5860, DPO AP 37121",3,451400,150466.6667
+"793 Thornton Landing, Lake Nicole, ME 88667",4,451365,112841.2500
+"81169 David Isle, Lake Alexis, WY 07956",1,450762,450762.0000
+"287 Wolfe Place, West Diana, OR 11810",1,447943,447943.0000
+"159 Joshua Road Apt. 908, South Ryanport, WV 88071",2,447516,223758.0000
+"7468 Powell View, South Heidiborough, NJ 13585",2,446785,223392.5000
+"5221 Robert Plains, Darrenmouth, VA 15663",2,445190,222595.0000
+"296 Kerr Rapid, Stephanieborough, NJ 60377",1,444813,444813.0000
+"841 Jesse Mountains, East William, RI 12215",2,444382,222191.0000
+"2216 Keller Cape, Wrightview, DC 23626",1,444271,444271.0000
+"3146 Cheryl Stravenue, Smithchester, KY 23040",3,444156,148052.0000
+"9605 Chelsey Ferry Suite 967, Jeffreyport, GA 06565",2,443252,221626.0000
+"281 Lee Village, Taylorborough, HI 70185",3,437726,145908.6667
+"99641 Fisher Ramp, West Matthewtown, NY 34325",2,436839,218419.5000
+"8907 Wilkinson Square, Robinsonchester, WY 05083",3,436638,145546.0000
+"837 Bartlett Manor, Danahaven, MO 47303",1,436206,436206.0000
+"001 Curry Lake Suite 719, Lake Deborah, ND 80477",2,435293,217646.5000
+"3338 Mason Loaf, East Christopher, MS 89440",1,433718,433718.0000
+"72956 Sandy Lakes Apt. 103, North Haleyville, AL 90634",2,432133,216066.5000
+"136 Kevin Terrace Apt. 888, Hoffmanland, NE 28404",1,431757,431757.0000
+"9618 Finley Summit Apt. 158, East Dustinstad, MN 98448",1,431238,431238.0000
+"5702 Pham Village Apt. 472, Caitlinhaven, MT 52092",1,429473,429473.0000
+"176 Cooper Green, Zacharyhaven, NJ 24055",2,429393,214696.5000
+"107 Clay Common, Port Frank, CT 70631",3,428414,142804.6667
+"579 Eric Harbor Apt. 556, South Andrewborough, OR 62660",1,428195,428195.0000
+"6950 White Points Suite 824, Palmerburgh, FL 11625",1,428189,428189.0000
+"855 Veronica Haven Apt. 802, West Holly, AK 21615",1,427926,427926.0000
+"17776 Steven View, West Suzanneton, DE 79095",1,427660,427660.0000
+"4246 David Expressway Apt. 789, North Susan, NJ 69948",2,424047,212023.5000
+"2043 David Turnpike, Pearsontown, WV 45159",3,423519,141173.0000
+"007 John Mews, Amandafurt, HI 25949",2,422517,211258.5000
+"547 Whitehead Mountains Suite 062, Ricardoton, AR 55476",1,421005,421005.0000
+"98603 Reeves Parks Apt. 341, East Allisonchester, OR 36814",2,420848,210424.0000
+"81256 Eugene Extensions Apt. 381, Deannaberg, ME 01419",1,418920,418920.0000
+"Unit 3345 Box 5114, DPO AP 58503",2,412904,206452.0000
+"875 Teresa Ford Suite 761, Port Ambermouth, NV 66121",1,411771,411771.0000
+"Unit 1995 Box 3615, DPO AE 55157",1,411599,411599.0000
+"928 Richard Radial Suite 428, New Sarah, NH 07450",2,409211,204605.5000
+"85896 Hughes Road Apt. 267, Cynthiaside, OH 01426",3,408662,136220.6667
+"312 Valentine Flats Suite 729, South Kimberlybury, GA 11882",2,406815,203407.5000
+"8339 Wise Forges Suite 966, Cartermouth, VA 57576",3,402528,134176.0000
+"905 Bradley Stream Apt. 386, South Maryberg, CO 54436",3,401474,133824.6667
+"5889 Kendra Neck Apt. 370, North Emily, MD 77795",2,401310,200655.0000
+"9483 Angela Mission Suite 768, Elizabethville, DC 97742",4,399286,99821.5000
+"46853 Monica Light Apt. 243, Dixonton, IL 61696",1,398220,398220.0000
+"8503 Andrea Highway Suite 346, Lake Lanceborough, WA 47184",3,397785,132595.0000
+"910 Ruben Plains Apt. 601, Nicholasstad, MA 02255",2,397468,198734.0000
+"USS Graham, FPO AP 35190",1,396027,396027.0000
+"USNS Gonzalez, FPO AP 07497",1,394189,394189.0000
+"USS Webb, FPO AE 01471",3,392402,130800.6667
+"16906 Stein Mall, Higginsview, CT 08051",3,390092,130030.6667
+"501 James Expressway, Troyshire, IA 74602",1,389570,389570.0000
+"37974 Daniel Lakes, Cynthiaton, NC 05343",2,387320,193660.0000
+"2791 William Haven Apt. 640, Lake Ronald, WY 92003",1,385367,385367.0000
+"69193 Aaron Station, Juliemouth, TN 55766",1,384897,384897.0000
+"8346 Prince Parkway Apt. 718, New Bethanytown, LA 85849",1,384363,384363.0000
+"11603 Christian Divide Suite 087, Sharifort, NM 98921",3,382539,127513.0000
+"4299 Shelby Locks, West Patriciaside, MD 84128",2,381274,190637.0000
+"Unit 5770 Box 7683, DPO AA 25057",2,381075,190537.5000
+"175 Cody Spur Apt. 852, Rodriguezstad, ME 75587",3,378316,126105.3333
+"55939 Heather Ville Suite 657, Dianeburgh, ND 08475",2,376732,188366.0000
+"743 Tyler Hill Suite 144, Port Williamchester, CT 86141",1,374812,374812.0000
+"4487 Snyder Estates Apt. 482, Sandystad, CA 26030",1,372148,372148.0000
+"57107 Nguyen Motorway, Bryanburgh, AR 43786",2,370360,185180.0000
+"5170 Jeffrey Estate, East Briannamouth, PA 11275",1,369940,369940.0000
+"77430 Jason View, Lake Nathaniel, CA 44302",1,369461,369461.0000
+"08854 Smith Dam Apt. 223, Port Caitlinton, SC 21956",1,369317,369317.0000
+"21805 Sims Spurs Apt. 443, Lake Keithbury, IN 46433",1,365729,365729.0000
+"8364 Jack Club, Lake Todd, WI 29315",2,365086,182543.0000
+"PSC 3195, Box 1018, APO AE 04495",2,361789,180894.5000
+"56022 Richard Street, Lisamouth, OK 84609",1,360610,360610.0000
+"31462 Gavin Glen Suite 793, Franklinbury, CO 72591",2,360575,180287.5000
+"PSC 6559, Box 4248, APO AP 98192",2,360142,180071.0000
+"12584 Danielle Parkways Suite 433, New Christopherbury, HI 55844",2,359151,179575.5000
+"6275 Sarah Stravenue, North Alyssa, MS 01408",1,358999,358999.0000
+"403 Johnson Curve, Marvinton, IL 96003",2,356383,178191.5000
+"463 English Port Apt. 026, East Christopherfort, GA 24447",4,356149,89037.2500
+"7619 White Summit, East Ann, MA 91318",2,356094,178047.0000
+"83528 Darren Forges Suite 076, Mcdonaldville, VT 01672",2,355259,177629.5000
+"243 Adams Burgs Suite 023, South Christopherside, NH 05255",3,352344,117448.0000
+"3423 Chad Summit Apt. 254, Port Cherylmouth, IA 20324",1,352113,352113.0000
+"432 April Land Suite 115, Port Elizabethview, SC 18584",2,351542,175771.0000
+"413 Traci Meadow Apt. 962, Mooreport, FL 61924",3,348850,116283.3333
+"40177 Mike Manor, West Peggy, MI 16619",1,348094,348094.0000
+"Unit 5900 Box 4222, DPO AA 81640",3,344937,114979.0000
+"96237 Jeffrey Skyway Apt. 113, Port Laurieburgh, CT 52276",3,342678,114226.0000
+"797 Kimberly Junction, Richardbury, GA 43624",1,337836,337836.0000
+"52360 Shannon Ports Apt. 466, Port Jillshire, AL 12517",3,337351,112450.3333
+"5680 Karen Wells, Jeffmouth, IA 67818",1,336675,336675.0000
+"76355 Shelton Glens, Millerberg, IN 47457",2,336356,168178.0000
+"2032 Wolf River, New Michael, IA 52706",1,335998,335998.0000
+"76932 Johnson Trail Apt. 886, East Elizabeth, CO 76329",2,334774,167387.0000
+"693 Garrett Streets Suite 410, East Gerald, OK 81367",2,333490,166745.0000
+"8711 Jamie Flat, New Mark, MD 91526",2,332414,166207.0000
+"USNS Davidson, FPO AA 84571",3,331601,110533.6667
+"27520 Anthony Haven Apt. 012, Port Debbiehaven, MI 99720",2,330823,165411.5000
+"303 Mckinney Lane, Vazquezfurt, HI 88510",2,329774,164887.0000
+"7431 Aguilar Springs, Richardsontown, DC 44584",1,327514,327514.0000
+"086 Kayla Burgs, Lake Anthony, NJ 05625",2,326920,163460.0000
+"Unit 1190 Box 9233, DPO AE 46774",1,323428,323428.0000
+"342 Chad Ranch, New Emily, MO 69969",1,321652,321652.0000
+"9299 Ronald Locks, Danastad, CA 55239",2,317482,158741.0000
+"778 Jennifer Island Apt. 288, Mackhaven, MT 04454",2,315248,157624.0000
+"712 Johnson Ridge Apt. 286, East Nicholas, AK 59589",1,314874,314874.0000
+"PSC 4202, Box 9843, APO AA 67867",2,313511,156755.5000
+"703 Christopher Manors, Carlaview, ID 87331",2,309710,154855.0000
+"225 Webb Ports, Port Rebeccaberg, DE 93073",2,307787,153893.5000
+"116 Felicia Neck Suite 537, Lindafort, MO 03011",3,307652,102550.6667
+"0113 Owen Springs, East Renee, ME 76363",2,307111,153555.5000
+"5802 Thompson Court, South Seanville, VT 30378",1,305084,305084.0000
+"271 Mcgee Burg, Lake Paulachester, MD 39263",1,303970,303970.0000
+"482 Russell Prairie, Rachaelborough, ID 90570",1,302770,302770.0000
+"828 Anderson Lane Apt. 338, West Jameschester, NC 77927",1,302254,302254.0000
+"90038 Yu Shoal Apt. 925, West Richardview, AR 04214",2,301984,150992.0000
+"08283 Lowe Square, East Kristy, NJ 64433",1,300922,300922.0000
+"211 Alice Forest, Michaelshire, NH 18728",1,297828,297828.0000
+"423 Peter Plains Apt. 133, Carpenterfurt, OK 89944",2,294985,147492.5000
+"35289 Natasha Crossroad Apt. 284, Lauratown, CT 85392",1,294763,294763.0000
+"599 Douglas Isle Suite 060, Daniellestad, OK 05756",3,293086,97695.3333
+"355 George Plains, Donaldmouth, NY 19337",4,293001,73250.2500
+"1108 Paul Turnpike Suite 225, Cathyberg, MS 82512",2,292840,146420.0000
+"562 Silva Squares, Simmonshaven, MD 94134",1,292808,292808.0000
+"85448 Kathy Mountains Apt. 965, Bellview, AK 63052",1,291806,291806.0000
+"64376 Curry Vista Apt. 847, Gregorytown, KS 54649",1,290837,290837.0000
+"06001 Daniels Expressway Suite 684, North Theresashire, TX 92427",2,285224,142612.0000
+"72756 Murray Pines Suite 627, New Crystal, KY 84183",1,285193,285193.0000
+"338 Hall View Suite 826, Port Anthonyberg, VA 23243",1,284233,284233.0000
+"849 Kimberly Expressway, East Douglas, MT 74670",1,280013,280013.0000
+"272 Schneider Locks Apt. 002, West Andrea, CT 63189",1,277872,277872.0000
+"98675 Amber Locks, East Matthewfort, NJ 93539",1,274136,274136.0000
+"5497 Gail Streets Suite 816, Brandonland, NV 00962",1,269708,269708.0000
+"70776 John Springs Suite 961, East Devinside, NE 54557",1,268334,268334.0000
+"69355 Debra Burgs, New Shanemouth, IL 54141",3,266357,88785.6667
+"0217 Warren Divide Suite 025, New Kimberly, VA 39719",1,259829,259829.0000
+"56807 Stephanie Islands, Lake Kathleen, NV 50062",2,258371,129185.5000
+"6174 Gonzalez Parkway Apt. 311, West Bryanmouth, AR 59805",1,256500,256500.0000
+"511 Ramsey Ports Apt. 534, New Christina, SC 85802",1,256166,256166.0000
+"21454 Hammond Spurs, Lake Georgeton, MO 83939",3,252008,84002.6667
+"352 Jackson Center, Danielmouth, AL 41306",1,251838,251838.0000
+"5422 Melendez Expressway, South Emily, WV 02224",1,251272,251272.0000
+"80087 Welch Trail Suite 591, Cassandrabury, LA 93909",2,250095,125047.5000
+"474 Heather Track, West Kimberly, AR 06060",1,249674,249674.0000
+"USNV Norman, FPO AA 81753",2,249605,124802.5000
+"699 Jones Crossing, Samuelstad, MA 88021",1,242399,242399.0000
+"4000 Andrea Spring, North Stacybury, MD 99695",2,237417,118708.5000
+"PSC 5131, Box 4792, APO AA 76532",2,236215,118107.5000
+"841 Edwards Point Suite 383, Flemingland, CT 64802",1,234793,234793.0000
+"534 Matthew Mountain Suite 577, Garzafurt, FL 05073",1,234350,234350.0000
+"152 Gary Center Suite 619, West Johnstad, IN 75539",1,232436,232436.0000
+"44678 Meyers Turnpike, Carlosland, GA 33566",1,230733,230733.0000
+"07030 Calderon Expressway, Port Donald, HI 68914",3,229468,76489.3333
+"4954 Wang Mission Apt. 872, Campbellbury, RI 69842",1,227882,227882.0000
+"3195 Steven Oval, Wagnerstad, AR 53295",2,225991,112995.5000
+"2513 Daniel Club, New Garrett, MA 00956",1,223643,223643.0000
+"69001 Aaron Ports, Kylefort, WV 46091",1,222324,222324.0000
+"4119 Kyle Crescent, Michelleshire, MD 89221",1,220003,220003.0000
+"28618 Little Point Suite 629, New Susanberg, OH 20248",2,219359,109679.5000
+"5633 Barton Valley Apt. 268, North Kristine, MO 43845",1,219321,219321.0000
+"58091 Clark Village, Victoriamouth, GA 68629",3,217926,72642.0000
+"Unit 0100 Box 4508, DPO AP 19670",1,215825,215825.0000
+"2654 Ian Harbors Apt. 028, Gonzalezshire, NC 76406",1,215567,215567.0000
+"5403 Johnson Via Suite 763, Berryton, MT 26732",1,210983,210983.0000
+"4881 Garrett Spurs Apt. 816, Lawrenceshire, NJ 05745",1,209410,209410.0000
+"667 Deanna Curve Suite 539, Port Susan, MD 39271",1,208517,208517.0000
+"0373 Pacheco Branch Apt. 923, Ashleyhaven, AK 69584",1,206342,206342.0000
+"21372 White Underpass Suite 052, Chaneytown, NJ 91313",1,202357,202357.0000
+"Unit 3526 Box 6797, DPO AE 34481",1,199900,199900.0000
+"386 Kyle Forest Suite 574, East Rhondatown, ME 30875",2,194552,97276.0000
+"Unit 2554 Box 8763, DPO AA 26025",1,193328,193328.0000
+"225 Howell Plains, East Scott, ME 70719",1,192903,192903.0000
+"70504 Mccormick River Suite 127, North Danaberg, OK 72925",1,187093,187093.0000
+"41744 Tyler Common Suite 858, Garciashire, OR 95758",2,185280,92640.0000
+"61791 Adams Crest, Quinntown, ID 11572",1,185073,185073.0000
+"355 Richard Junctions, Port Andreaton, GA 68317",1,181756,181756.0000
+"32157 Amber Shores, Stevensland, CT 55042",1,174417,174417.0000
+"Unit 6482 Box 3370, DPO AA 16582",1,171867,171867.0000
+"2490 Brown Pass Suite 141, East Ryan, KS 40871",1,170730,170730.0000
+"518 Samantha Crossing Apt. 525, Charlenefort, IA 28629",1,169544,169544.0000
+"05377 Reeves Place, Davidborough, NC 52831",2,169444,84722.0000
+"916 Penny Mill Suite 770, Cowanland, TX 66372",1,166252,166252.0000
+"PSC 0669, Box 3499, APO AP 94807",2,165955,82977.5000
+"08790 Flynn Valleys, Lake Brooke, IN 45224",1,165895,165895.0000
+"9096 Lewis Ridge Apt. 613, Lake Michael, WV 25358",1,164481,164481.0000
+"899 Watson Spurs, Kathleenborough, TX 43119",2,164221,82110.5000
+"029 Crystal Underpass, Russellmouth, CT 04741",2,161347,80673.5000
+"92409 Marks Mills, Aprilton, WY 91278",1,155658,155658.0000
+"USNV Howard, FPO AE 20153",3,152918,50972.6667
+"9391 Evans Dam Apt. 190, Joshuamouth, AK 99401",1,150074,150074.0000
+"69752 Matthew Mall, New Michael, NH 21086",2,149936,74968.0000
+"3663 Jared Springs Apt. 743, Sylviachester, OH 42726",1,148651,148651.0000
+"7938 Sandra Highway, South Micheleview, MS 04452",1,148578,148578.0000
+"978 Greene Camp, Martinezchester, VA 91485",3,144988,48329.3333
+"44666 Jessica Trace, Jasonfort, IN 33210",2,144952,72476.0000
+"52906 Luis Squares Suite 906, North Christian, NV 32266",1,143751,143751.0000
+"2684 Zavala Port Apt. 449, Johnsonburgh, TX 21476",1,140055,140055.0000
+"172 Hutchinson Overpass Apt. 336, Oliviaberg, AK 49231",3,139501,46500.3333
+"PSC 9284, Box 6341, APO AP 55546",1,138109,138109.0000
+"407 Shari Burgs Suite 045, Port Tanyachester, OH 20177",1,135225,135225.0000
+"878 David Vista, Garytown, MT 03868",2,134857,67428.5000
+"351 Williams Loop Suite 913, New Scott, CT 26446",1,133614,133614.0000
+"63489 Karen Roads, Robertfort, AK 83442",1,133241,133241.0000
+"083 Cox Rest Suite 367, Howardburgh, PA 37670",1,129480,129480.0000
+"4171 Phillips Common, Osborneton, IA 99284",1,128610,128610.0000
+"240 Julia Canyon Apt. 042, Christopherton, DE 08505",1,126100,126100.0000
+"1990 Lisa Forest, Christopherborough, VA 53572",2,124137,62068.5000
+"2863 Wood Ramp Apt. 056, West Vincent, MS 42461",1,121977,121977.0000
+"PSC 0292, Box 3505, APO AP 87178",1,121586,121586.0000
+"0865 Palmer Ranch Apt. 849, New Russell, MS 92969",1,120274,120274.0000
+"44485 Catherine Row Apt. 528, New David, VA 72149",3,119454,39818.0000
+"0827 Caitlin Road, Lindseyfurt, NJ 18054",2,118439,59219.5000
+"92085 Amanda Overpass Apt. 351, East Charlene, TN 30409",1,117140,117140.0000
+"2131 Gregory River Suite 657, South Bradley, AL 55399",1,112595,112595.0000
+"USNS Shaffer, FPO AP 13881",1,112483,112483.0000
+"USNS King, FPO AP 09647",1,112166,112166.0000
+"7575 Anthony Rest, Marytown, KS 89487",1,111872,111872.0000
+"12299 Catherine Club, Villarrealland, ME 42138",1,109608,109608.0000
+"8789 Alexander Pass, Heatherberg, NC 11787",1,108516,108516.0000
+"12020 Nicholas Brook Apt. 434, Gonzalezview, AR 14109",1,108297,108297.0000
+"21563 David Spring Apt. 673, South Michaelport, AK 83712",1,107121,107121.0000
+"166 Howe Garden Apt. 581, Port Kristiebury, CT 23485",2,105797,52898.5000
+"85526 Francis Turnpike Apt. 108, North Wandamouth, WV 24841",1,100472,100472.0000
+"3731 Jackson Mountains Suite 889, Lake Peggyfurt, IL 84560",1,97424,97424.0000
+"991 Cannon Stream, Port Carl, WA 27781",1,96518,96518.0000
+"8904 Devin Grove, Johnsonborough, ME 08903",1,96126,96126.0000
+"660 Ashley Divide Apt. 797, Jacobsonmouth, AR 19244",1,88992,88992.0000
+"0497 Brown Flat, North Mark, IA 37675",1,87579,87579.0000
+"3476 Brenda Ville, Rhondaport, AZ 67754",1,83694,83694.0000
+"60544 Brian Stravenue, East James, NV 66607",1,83667,83667.0000
+"57544 Jane Ports, Beckerberg, MT 71627",1,82116,82116.0000
+"00445 Charles Skyway Apt. 055, West Christopher, ND 32244",1,78439,78439.0000
+"9179 Reese Creek Suite 410, Kyleport, GA 49902",1,78252,78252.0000
+"3968 Patricia Pike, Lopezborough, LA 40518",1,77471,77471.0000
+"93389 Wayne Fall, Anthonybury, MS 35388",1,74086,74086.0000
+"5134 Jeremy Stream, Port Tammy, AK 03111",1,73342,73342.0000
+"88574 Alex Pike, Mortonfort, DC 46573",2,71207,35603.5000
+"Unit 4888 Box 2623, DPO AA 45161",1,69977,69977.0000
+"7542 Phyllis Flat Apt. 310, South Harry, RI 95947",1,69806,69806.0000
+"PSC 0606, Box 7318, APO AP 73983",1,64426,64426.0000
+"4497 Sutton Courts, New Colleenland, PA 88548",1,62446,62446.0000
+"924 Jason Hollow Apt. 809, Gentryview, RI 26806",1,61239,61239.0000
+"9317 Sara Path, Jacksonfort, RI 94206",1,55247,55247.0000
+"4252 Bowman Isle, West Sue, RI 47681",1,54853,54853.0000
+"13847 Webster Pines Apt. 922, Michellefort, CA 41710",1,53429,53429.0000
+"4524 Lisa Glen, Port Diana, RI 08921",1,49719,49719.0000
+"164 Thompson Locks Suite 950, Kellyside, VA 91762",1,44175,44175.0000
+"4625 Mcmahon Summit Suite 210, Castillomouth, RI 34003",1,43629,43629.0000
+"Unit 7258 Box 2714, DPO AE 74932",1,39192,39192.0000
+"2037 Nixon Terrace, Kimberlyland, NH 74285",1,36086,36086.0000
+"58232 Kramer Burgs, Harriston, AL 01392",1,35420,35420.0000
+"4627 Stephanie Expressway Apt. 525, Lake Richardside, DC 60758",1,30648,30648.0000
+"4284 Evans Pines Suite 856, Rosariofort, SC 90277",1,22641,22641.0000
+"74278 Abigail Pines Suite 108, West Erin, SC 41256",1,22287,22287.0000
+"18152 Hoffman Summit, North Jamesview, PA 03864",1,19800,19800.0000
+"33089 Rogers Pines Suite 363, West Michael, GA 97438",1,18445,18445.0000
+"8353 Cole Oval Apt. 058, East Melissaport, MD 92846",1,18320,18320.0000
+"914 Tracy Burgs Suite 345, Charleshaven, NJ 36962",1,15606,15606.0000
+"429 Vaughan Motorway Suite 279, Lewishaven, AL 01972",1,11539,11539.0000
+"0861 Soto Islands, Carloshaven, DC 56840",1,7912,7912.0000

@@ -1,0 +1,17 @@
+Feedback_sentiment,loan_status,total_loan_amount,average_loan_amount
+"Late penalty.",Defaulted,263546456,256119.0049
+"On-time payment.",Defaulted,259850844,259591.2527
+"Late penalty.",Approved,255615240,243211.4558
+"Late penalty.",Closed,255253431,256536.1116
+"On-time payment.",Approved,250733432,246784.8740
+"On-time payment.",Closed,242226821,250493.0931
+"Partial payment.",Closed,242057158,261966.6212
+"Payment missed.",Closed,241057429,256990.8625
+"Partial payment.",Approved,238725775,247128.1315
+"Partial payment.",Defaulted,236689160,255052.9741
+"Payment missed.",Defaulted,233466992,254321.3420
+"Payment missed.",Approved,229103238,238898.0584
+"On-time payment.",Rejected,227116104,259264.9589
+"Payment missed.",Rejected,220826395,264146.4055
+"Partial payment.",Rejected,215119739,250139.2314
+"Late penalty.",Rejected,211715128,246466.9709
